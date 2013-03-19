@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="414" MadCap:lastWidth="725">
+    <head>
+    </head>
+    <body>
+        <h1>Adjustment Types</h1>
+        <div>
+            <p>Adjustments are payroll items which impacts a temp’s paycheck and are not considered hourly pay. Examples of adjustments are garnishment of wages, bonuses, and SUI Tax (State Unemployment Tax). You can apply an adjustment from the temp’s profile. Adjustments are available for paycheck printing and managed from the Manage Adjustments screen in the Admin area.</p>
+            <div class="tip" MadCap:autonum="&lt;b&gt;Tip&lt;/b&gt; "> Your agency should work with an accounting representative when setting up Adjustment Types.</div>
+        </div>
+        <p>
+            <MadCap:glossaryTerm class="Expanding">Adjustment</MadCap:glossaryTerm> types are set up in advance by the agency’s Admin  and can be either credits or deductions. Once entered, Adjustment types are available for application in the temp record.</p>
+        <div MadCap:conditions="Agency Condition Tags.Advanced Travel">
+            <p class="emphasized">What is the difference between an Adjustment and a Payout?</p>
+            <MadCap:snippetBlock src="../../Resources/Snippets/Payouts.flsnp" />
+        </div>
+        <MadCap:relationshipsProxy MadCap:conditions="Default.PrintOnly" />
+    </body>
+</html>
